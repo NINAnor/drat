@@ -1,0 +1,8 @@
+Package: NinaR
+Version: 0.2.2.7
+Depends: rmarkdown
+Imports: utils, rmarkdown, knitr, yaml, grImport, grid, XML, tikzDevice, stringi, NCmisc, styler
+Suggests: knitr
+License: GPL-3
+MD5sum: 97d16d64d47b26bbf10b1595af908d0b
+NeedsCompilation: no
